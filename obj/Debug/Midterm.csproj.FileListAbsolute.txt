@@ -1,0 +1,7 @@
+D:\C#\Midterm\bin\Debug\Midterm.exe.config
+D:\C#\Midterm\bin\Debug\Midterm.exe
+D:\C#\Midterm\bin\Debug\Midterm.pdb
+D:\C#\Midterm\obj\Debug\Midterm.csproj.AssemblyReference.cache
+D:\C#\Midterm\obj\Debug\Midterm.csproj.CoreCompileInputs.cache
+D:\C#\Midterm\obj\Debug\Midterm.exe
+D:\C#\Midterm\obj\Debug\Midterm.pdb
